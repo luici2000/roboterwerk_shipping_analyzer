@@ -1,0 +1,7 @@
+# Roboterwerk Shipping Analyzer - Abhängigkeiten
+
+# PDF-Verarbeitung
+PyMuPDF>=1.23.0
+
+# Excel-Export
+openpyxl>=3.1.0
